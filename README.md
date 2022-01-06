@@ -10,19 +10,19 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2>#Oficina Homeoffice soñada</h2>
-<li><a href="https://bookstore.cl/apoya-pies/apoya-pies-ergonomico-3-posiciones-86.html" target="_blank" target="_blank">Apoya pies ergonómico para escritorio</a></li>
-<li><a href="https://bookstore.cl/sillas-ergonomicas-49" target="_blank" target="_blank">Sillas ergonómicas Chile en bookstore</a></li>
-<li><a href="https://bookstore.cl/base-para-monitor-81" target="_blank" target="_blank">bases para monitor y brazos para monitor</a></li>
-<li><a href="https://bookstore.cl/escritorios-de-altura-ajustable/escritorio-de-altura-regulable-120cm-113.html" target="_blank" target="_blank">Escritrio eléctrico de altura regulable</a></li>
-<li><a href="https://bookstore.cl/sillas-de-oficina-10" target="_blank" target="_blank">Sillas de Escritorio (listado completo)</a></li>
-<li><a href="https://bookstore.cl/sillas-cajero/silla-cajero-job-159.html" target="_blank" target="_blank">Sillas para Cajero Job de bookstore</a></li>
-<li><a href="https://bookstore.cl/sillas-cajero-41" target="_blank" target="_blank">Sillas cajero (listado completo)</a></li>
-<li><a href="https://bookstore.cl/sillas-ergohuman/silla-ergohuman-fit-mesh-58.html" target="_blank" target="_blank">Ergohuman la mejor silla de escritorio ergonómica</a></li>
-<li><a href="https://bookstore.cl/escritorios-de-altura-ajustable-75" target="_blank" target="_blank">Escritorios eléctricos regulables</a></li>
-<li><a href="https://bookstore.cl/estanterias-24" target="_blank" target="_blank">Estanterías para libros</a></li>
-<li><a href="https://bookstore.cl/escritorios-gamer/escritorio-gamer-pro-52.html" target="_blank" target="_blank">Escritorio gamer con Luces RGB</a></li>
-<li><a href="https://bookstore.cl/sillas-personas-grandes-47" target="_blank" target="_blank">Sillas para personas gordas</a></li>
-<li><a href="https://bookstore.cl/repuestos-sillas-de-oficina-91" target="_blank" target="_blank">Repuestos para Sillas de Oficina</a></li>
+<li><a href="https://bookstore.cl/apoya-pies/apoya-pies-ergonomico-3-posiciones-86.html" target="_blank" target="_blank">Apoya pies ergonómico para escritorio</a>: Reposa piernas con 3 posiciones de ajuste.</li>
+<li><a href="https://bookstore.cl/sillas-ergonomicas-49" target="_blank" target="_blank">Sillas ergonómicas Chile en bookstore</a>: Sillas de escritorio ordenadas por precio/marca/funciones/peso soportado.</li>
+<li><a href="https://bookstore.cl/base-para-monitor-81" target="_blank" target="_blank">bases para monitor y brazos para monitor</a>: Soporte para pantallas que se fijan a tu escritorio, hay de madera, aluminio, acero, plástico, etc.</li>
+<li><a href="https://bookstore.cl/escritorios-de-altura-ajustable/escritorio-de-altura-regulable-120cm-113.html" target="_blank" target="_blank">Escritorio eléctrico de altura regulable</a>: escritorio con panel de control que permite regularlo entre 62 y 127 cms de alto para trabajar sentado o de pie, con sólo apretar un botón.</li>
+<li><a href="https://bookstore.cl/sillas-de-oficina-10" target="_blank" target="_blank">Sillas de Escritorio (listado completo)</a>: Sillas de Oficina con gran canttidad de subcategorías para refinar la búsqueda.</li>
+<li><a href="https://bookstore.cl/sillas-cajero/silla-cajero-job-159.html" target="_blank" target="_blank">Sillas para Cajero Job de bookstore</a>: Silla tipo cajero más vendida en Chile, con aro reposa piernas de acero.</li>
+<li><a href="https://bookstore.cl/sillas-cajero-41" target="_blank" target="_blank">Sillas cajero (listado completo)</a>: completo listado de sillas para cajeras, varios modelos y precios.</li>
+<li><a href="https://bookstore.cl/sillas-ergohuman/silla-ergohuman-fit-mesh-58.html" target="_blank" target="_blank">Ergohuman la mejor silla de escritorio ergonómica</a>: Silla ergohuman malla con gran cantidad de erseñas de clientes.</li>
+<li><a href="https://bookstore.cl/escritorios-de-altura-ajustable-75" target="_blank" target="_blank">Escritorios eléctricos regulables</a>: escritorios eléctricos con regulación de altura y en varios colores.</li>
+<li><a href="https://bookstore.cl/estanterias-24" target="_blank" target="_blank">Estanterías para libros</a>: estanterías de madera con repisas y diversas medidas.</li>
+<li><a href="https://bookstore.cl/escritorios-gamer/escritorio-gamer-pro-52.html" target="_blank" target="_blank">Escritorio gamer con Luces RGB</a>: escritorio gaming muy Coooool.</li>
+<li><a href="https://bookstore.cl/sillas-personas-grandes-47" target="_blank" target="_blank">Sillas para personas gordas</a>Sillas de escritorio que aguantan mucho peso.</li>
+<li><a href="https://bookstore.cl/repuestos-sillas-de-oficina-91" target="_blank" target="_blank">Repuestos para Sillas de Oficina</a>: Muchos tipos de repuestos para sillas de oficina como pistones, ruedas, patines, brazos, bases, etc.</li>
 <h2>#Localidades Curiosas</h2>
 <ul><li><a href="https://es.m.wikipedia.org/wiki/%C3%85_(Noruega)" title="Å (Noruega)" target="_blank">Å</a>: la localidad con el nombre más corto.</li>
 <li><a href="https://es.m.wikipedia.org/wiki/Action_Park" title="Action Park" target="_blank">Action Park</a>: parque de diversiones en Nueva Jersey cerrado en 1996, famoso por sus peligrosas atracciones para los visitantes.</li>
